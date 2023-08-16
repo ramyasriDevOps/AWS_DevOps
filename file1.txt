@@ -1,3 +1,2 @@
 GIT is a version control system.Default branch in git is master
 adding more data: git init does initialize git local repo
-Third line added
